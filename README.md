@@ -1,1 +1,2 @@
-This is my first Java project and my first step in completely mastering the Java language.
+Pour cloner ce projet:
+git clone https://github.com/Abdou-Jabar/Calculator_Java_Project.git
