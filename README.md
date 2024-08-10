@@ -1,3 +1,3 @@
 Ceci est mon premier projet en JAVA (Swing).
 
-![Capture d’écran du 2024-08-09 10-44-23](https://github.com/user-attachments/assets/ad48b3a1-054f-4cb1-99ff-b1e0c54073f2)
+![Capture d’écran du 2024-08-10 10-29-04](https://github.com/user-attachments/assets/d1cf0ca1-3677-4212-b080-59afd6b33961)
